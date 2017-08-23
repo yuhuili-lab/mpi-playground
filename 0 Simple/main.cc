@@ -1,3 +1,4 @@
+// Simple MPI workers logging
 #include <mpi.h>
 #include <stdio.h>
 
